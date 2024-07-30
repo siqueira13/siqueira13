@@ -12,3 +12,4 @@ camilly.siqueira.paula@escola.pr.gov.br
 
 camilly.siqueira.paula@escola.pr.gov.br
 
+![](https://tenor.com/pt-BR/view/dance-gif-1401901097955364941)
