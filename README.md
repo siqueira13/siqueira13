@@ -2,7 +2,7 @@
 
 Meu nome é Camilly
 
-- Estou estudando no Alura
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
@@ -12,4 +12,4 @@ camilly.siqueira.paula@escola.pr.gov.br
 
 camilly.siqueira.paula@escola.pr.gov.br
 
-![](https://tenor.com/pt-BR/view/dance-gif-1401901097955364941)
+![](https://media.tenor.com/E3SNnvncEE0AAAAM/dance.gif)
